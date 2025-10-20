@@ -156,7 +156,7 @@
     "webpack-dev-server": "5.1.0"
   },
   "optionalDependencies": {
-    "playwright": "1.37.1"
+    "playwright": "1.55.1"
   },
   "browserslist": {
     "production": [
